@@ -1,0 +1,3 @@
+
+    GET https://api.discogs.com/artists/1/releases?page=7&per_page=5
+
